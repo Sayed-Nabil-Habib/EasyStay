@@ -142,7 +142,7 @@ export default function VenuePage() {
         </div>
 
         <div className="mb-8">
-          <h2 className="text-xl font-semibold mb-2">Amenities</h2>
+          <h2 className="text-xl font-semibold mb-2">Facilities</h2>
           <ul className="grid grid-cols-2 sm:grid-cols-4 gap-4 text-sm text-gray-700">
             {venue.meta?.wifi && (
               <li className="flex items-center gap-2">
@@ -204,7 +204,7 @@ export default function VenuePage() {
                 </div>
               ) : (
                 <p className="text-sm text-muted mb-4">
-                  Please select dates to see summary
+                  Please select dates
                 </p>
               )}
 

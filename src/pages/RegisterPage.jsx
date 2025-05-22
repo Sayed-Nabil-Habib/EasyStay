@@ -78,7 +78,7 @@ export default function RegisterPage() {
               className="mr-2"
             />
             <label htmlFor="venueManager" className="text-sm">
-              Register as a Venue Manager
+              Register as Manager
             </label>
           </div>
           <button

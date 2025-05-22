@@ -59,8 +59,4 @@ Project structure and feature roadmap are managed using the GitHub Projects tab.
 🌐 Deployment
 The live version of the application will be available at:
 
-https://yourusername.github.io/easystay
-(Coming soon)
-
-📄 License
-This project is released under the MIT License.
+https://melodic-kheer-aa1fce.netlify.app/
