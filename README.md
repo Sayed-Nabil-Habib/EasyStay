@@ -2,6 +2,16 @@
 
 EasyStay is a sleek and intuitive web app for discovering and managing travel accommodations. Built with React, it offers a seamless experience for both travelers and hosts.
 
+# Improvment:
+
+I could apply Dark Mode / Theme Toggle
+Add a toggle to switch between dark and light mode.
+
+I could also add Filtering & Sorting for Listings
+Filter by city, rating, date.
+
+Sort by newest, cheapest, most popular.
+
 # User Roles
 
 ✈️ Travelers
